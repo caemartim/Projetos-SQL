@@ -1,2 +1,2 @@
 # Projetos.SQL
-meus codigos em SQL feitos na faculdade!
+meus projetos na linguagem MySQL feitos na faculdade!
